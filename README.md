@@ -41,9 +41,20 @@
 <!-- GITHUB STATS -->
 <h3 align="center">Github Stats</h3><hr/>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=unvyil&background=00000000&ring=FF479D&fire=FF479D&currStreakNum=auto&currStreakLabel=FF479D&sideNums=auto&sideLabels=auto&dates=auto&hide_border=true&cache=3"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=unvyil&bg_color=00000000&title_color=FF479D&text_color=auto&hide_border=true&layout=compact&cache=3"/>
+  <picture>
+    <!-- Dark Mode: White text for dark themes -->
+    <source media="(prefers-color-scheme: dark)" srcset="
+      https://streak-stats.demolab.com/?user=unvyil&background=00000000&ring=FF479D&fire=FF479D&currStreakNum=FFFFFF&currStreakLabel=FF479D&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true&cache=3,
+      https://github-readme-stats.shion.dev/api/top-langs/?username=unvyil&bg_color=00000000&title_color=FF479D&text_color=FFFFFF&hide_border=true&layout=compact&cache=3
+    ">
+    <!-- Light Mode: Black text for light themes -->
+    <source media="(prefers-color-scheme: light)" srcset="
+      https://streak-stats.demolab.com/?user=unvyil&background=00000000&ring=FF479D&fire=FF479D&currStreakNum=000000&currStreakLabel=FF479D&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true&cache=3,
+      https://github-readme-stats.shion.dev/api/top-langs/?username=unvyil&bg_color=00000000&title_color=FF479D&text_color=000000&hide_border=true&layout=compact&cache=3
+    ">
+    <!-- Fallback -->
+    <img alt="Github Stats" src="https://streak-stats.demolab.com/?user=unvyil&background=00000000&ring=FF479D&fire=FF479D&currStreakNum=FFFFFF&currStreakLabel=FF479D&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true&cache=3">
+  </picture>
 </p>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
