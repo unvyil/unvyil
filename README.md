@@ -41,8 +41,8 @@ u<!-- README TYPING SVG -->
 <!-- GITHUB STATS -->
 <h3 align="center">Github Stats</h3><hr/>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=unvyil&background=00000000&ring=FF479D&fire=FF479D&currStreakNum=FFFFFF&currStreakLabel=FF479D&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true&cache=3" style="filter: invert(1) hue-rotate(180deg) brightness(1.5);"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=unvyil&bg_color=00000000&title_color=FF479D&text_color=FFFFFF&hide_border=true&layout=compact&cache=3" style="filter: invert(1) hue-rotate(180deg) brightness(1.5);"/>
+  <img src="https://streak-stats.demolab.com/?user=unvyil&background=00000000&ring=FF479D&fire=FF479D&currStreakNum=auto&currStreakLabel=FF479D&sideNums=auto&sideLabels=FF479D&dates=FF479D&hide_border=true&cache=3&theme=auto"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=unvyil&bg_color=00000000&title_color=FF479D&text_color=FF479D&hide_border=true&layout=compact&cache=3&theme=auto"/>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
