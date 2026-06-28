@@ -41,7 +41,7 @@
 <!-- GITHUB STATS -->
 <h3 align="center">Github Stats</h3><hr/>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=unvyil&background=00000000&ring=FF479D&fire=FF479D&currStreakNum=%23var(--color-fg-default)&currStreakLabel=FF479D&sideNums=%23var(--color-fg-default)&sideLabels=%23var(--color-fg-default)&dates=%23var(--color-fg-default)&hide_border=true&cache=3"/>
+  <img src="https://streak-stats.demolab.com/?user=unvyil&background=00000000&ring=FF479D&fire=FF479D&currStreakNum=%23var(--color-fg-default)&currStreakLabel=FF479D&sideNums=FF479D&sideLabels=FF479D&dates=FF479D&hide_border=true&cache=3"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=unvyil&bg_color=00000000&title_color=FF479D&text_color=%23var(--color-fg-default)&hide_border=true&layout=compact&cache=3"/>
 </p>
 
