@@ -1,4 +1,4 @@
-<!-- README TYPING SVG -->
+u<!-- README TYPING SVG -->
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=18&duration=3500&pause=1500&color=FF479D&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile!;I'm+Novy%2C+an+aspiring+Fullstack+Web+Developer+and+UI%2FUX+Designer." alt="Typing SVG" /></a></p>
 
 <!-- INTRO -->
@@ -41,8 +41,8 @@
 <!-- GITHUB STATS -->
 <h3 align="center">Github Stats</h3><hr/>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=unvyil&background=00000000&ring=FF479D&fire=FF479D&currStreakNum=%23var(--color-fg-default)&currStreakLabel=FF479D&sideNums=FF479D&sideLabels=FF479D&dates=FF479D&hide_border=true&cache=3"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=unvyil&bg_color=00000000&title_color=FF479D&text_color=FF479D&hide_border=true&layout=compact&cache=3"/>
+  <img src="https://streak-stats.demolab.com/?user=unvyil&background=00000000&ring=FF479D&fire=FF479D&currStreakNum=FFFFFF&currStreakLabel=FF479D&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true&cache=3" style="filter: invert(1) hue-rotate(180deg) brightness(1.5);"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=unvyil&bg_color=00000000&title_color=FF479D&text_color=FFFFFF&hide_border=true&layout=compact&cache=3" style="filter: invert(1) hue-rotate(180deg) brightness(1.5);"/>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
